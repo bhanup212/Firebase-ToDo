@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "258507080958",
+    "firebase_url": "https://daily-to-do-66310.firebaseio.com",
+    "project_id": "daily-to-do-66310",
+    "storage_bucket": "daily-to-do-66310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258507080958:android:e34294b27f55dbea",
+        "android_client_info": {
+          "package_name": "com.dailyto_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258507080958-lao9h5ev7t6gep2mssvh9c4t9t4hglr4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dailyto_do",
+            "certificate_hash": "32dda5b96661a8b050cb234fdc27105110f9a73e"
+          }
+        },
+        {
+          "client_id": "258507080958-sakrv67t99pjev61593u6c03ibptb9hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCje2VxTkZyEGZscgsjEn4X27I-Aty7rMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258507080958-sakrv67t99pjev61593u6c03ibptb9hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
