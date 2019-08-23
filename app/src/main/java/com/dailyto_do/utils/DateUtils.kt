@@ -20,3 +20,10 @@ fun getCurrentTimeMills():Long{
     calender.time = date
     return calender.timeInMillis
 }
+
+fun getMillsFromDate(date:String):Long{
+    val datetime = getDateFormat().parse(date)
+    val calender = Calendar.getInstance()
+    calender.time = datetime
+    return calender.timeInMillis
+}

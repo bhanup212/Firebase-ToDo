@@ -1,6 +1,7 @@
 package com.dailyto_do.model
 
 data class ToDo(
+    var id:String="",
     var name:String="",
     var date:String="",
     var isCompleted:Boolean=false,
